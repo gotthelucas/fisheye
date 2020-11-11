@@ -1,8 +1,17 @@
-# catalogo
+# Un Nuevo Bipper(?)
 
 > A Vue.js project
 
-## Build Setup
+## Instrucciones:
+
+# Componentes Vuetify disponibles
+https://vuetifyjs.com/en/components
+
+# Iconos Disponibles (CheatSheet)
+https://cdn.materialdesignicons.com/5.4.55/
+
+#Suerte! My friend. Enjoy.
+
 
 ``` bash
 # install dependencies
@@ -18,4 +27,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
