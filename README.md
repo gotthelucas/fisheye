@@ -1,13 +1,14 @@
 # Un Nuevo Bipper(?)
 
-> A Vue.js project
+> Somos una boutique dedicada al estudio de ecosistemas virtuales.
 
-## Instrucciones:
 
-# Componentes Vuetify disponibles
+# Instrucciones:
+
+## Componentes Vuetify disponibles
 https://vuetifyjs.com/en/components
 
-# Iconos Disponibles (CheatSheet)
+## Iconos Disponibles (CheatSheet)
 https://cdn.materialdesignicons.com/5.4.55/
 
 #Suerte! My friend. Enjoy.
