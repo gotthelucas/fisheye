@@ -1,7 +1,7 @@
 {
-  "short_name": "Postal Chess",
-  "name": "Fisheye",
-  "description": "Fisheye",
+  "short_name": "Bezier",
+  "name": "Bezier",
+  "description": "Bezier, curva futura.",
   "icons": [
     {
       "src": "/static/img/icon192.png",
